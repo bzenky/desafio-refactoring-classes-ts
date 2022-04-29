@@ -3,8 +3,6 @@ import { FiEdit3, FiTrash } from 'react-icons/fi';
 
 import { Container } from './styles';
 import api from '../../services/api';
-import { string } from 'yup';
-
 interface IFood {
   id: number
   name: string
