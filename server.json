@@ -15,6 +15,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://img.cybercook.com.br/imagens/receitas/225/tempura-1-420x240.jpg?q=75",
+      "name": "Tempura",
+      "price": "3.00",
+      "description": "Saudades de comer tempura",
+      "available": true,
+      "id": 4
     }
   ]
 }
