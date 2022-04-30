@@ -24,7 +24,8 @@
   "include": [
     "next-env.d.ts",
     "**/*.ts",
-    "**/*.tsx"
+    "**/*.tsx",
+    "src/components/ModalAddFood/index.jsx"
   ],
   "exclude": [
     "node_modules"
